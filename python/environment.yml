@@ -1,0 +1,4 @@
+name: stocks_ml_env
+channels:
+  - defaults
+prefix: /home/rshelton/anaconda3/envs/stocks_ml_env
